@@ -1,0 +1,4 @@
+# Git Attributes
+# Docs: https://git-scm.com/docs/gitattributes
+
+* text=auto
