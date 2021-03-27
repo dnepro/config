@@ -2,7 +2,6 @@
   "name": "@dnepro/eslint-config-dnepro",
   "version": "0.0.1",
   "description": "My private Eslint Configuration",
-  "private": true,
   "main": "index.js",
   "files": [
     "index.js",
