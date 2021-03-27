@@ -10,7 +10,7 @@ This project provides two configuration versions, a ["basic"](#basic) and a ["pr
 
 Install this configuration:
 
-```console
+```bash
 npm i -D @dnepro/stylelint-config 
 # or
 yarn add -D @dnepro/stylelint-config stylelint@^13.2.0 stylelint-config-standard@^21.0.0
@@ -18,7 +18,7 @@ yarn add -D @dnepro/stylelint-config stylelint@^13.2.0 stylelint-config-standard
 
 if necessary (this maybe already happens automatically), please also install the peerDependencies:
 
-```console
+```bash
 npm i -D stylelint@^13.2.0 stylelint-config-standard@^21.0.0
 # or respectively
 yarn add -D stylelint@^13.2.0 stylelint-config-standard@^21.0.0
