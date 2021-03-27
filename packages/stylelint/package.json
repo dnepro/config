@@ -1,6 +1,6 @@
 {
   "name": "@dnepro/stylelint-config",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "My private Stylelint Configuration",
   "main": "index.js",
   "files": [

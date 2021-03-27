@@ -1,0 +1,14 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# 0.1.0 (2021-03-27)
+
+
+### Features
+
+* **eslint:** init ([c570d90](https://github.com/dnepro/config/commit/c570d909470c91ba20c6c55cb9afa48741951493))
+* **mono:** update root ([97ed654](https://github.com/dnepro/config/commit/97ed654a038a39e9dcd8eac7a81ccd793f416c67))
+* **prettier:** init ([07d779c](https://github.com/dnepro/config/commit/07d779c0c0e2784168fc3ad46f47428d7026c321))
+* **stylelint:** init ([a8f6692](https://github.com/dnepro/config/commit/a8f66926fdaeb747eb6597bfe807d85e37099bca))

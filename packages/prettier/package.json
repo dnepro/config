@@ -1,6 +1,6 @@
 {
   "name": "@dnepro/prettier-config",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "My private Prettier Configuration",
   "main": "index.js",
   "files": [

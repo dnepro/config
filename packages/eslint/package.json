@@ -1,6 +1,6 @@
 {
   "name": "@dnepro/eslint-config-dnepro",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "My private Eslint Configuration",
   "main": "index.js",
   "files": [
