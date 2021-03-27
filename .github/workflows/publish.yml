@@ -1,9 +1,11 @@
 name: publish
 
 on:
-  push:
-    branches:
-      - main
+  # push:
+  #   branches:
+  #     - main
+  release:
+    types: [created]
 
 jobs:
   publish:

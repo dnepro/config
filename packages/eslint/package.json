@@ -1,6 +1,7 @@
 {
   "name": "@dnepro/eslint-config-dnepro",
   "version": "0.1.0",
+  "private": false,
   "description": "My private Eslint Configuration",
   "main": "index.js",
   "files": [
@@ -65,5 +66,6 @@
   "bugs": {
     "url": "https://github.com/dnepro/config/issues"
   },
-  "homepage": "https://github.com/dnepro/config#readme"
+  "homepage": "https://github.com/dnepro/config#readme",
+  "gitHead": "910b0d463be6d0a5a691fa681d2506e8c39134d3"
 }
