@@ -1,10 +1,17 @@
-# Dotfiles
+# Configurations
 
-This project contains my commonly used dotfiles.
+This project contains my commonly used configurations.
 
-## Important
+> see also my [dotfiles](https://github.com/dnepro/dotfiles).
 
-**Don't use ".npmignore"-files!**
+## Eslint
 
-short version: if npm can't find a ".npmignore"-file, it will use the projects ".gitignore"-file!
-long version: [https://medium.com/@jdxcode/for-the-love-of-god-dont-use-npmignore-f93c08909d8d](https://medium.com/@jdxcode/for-the-love-of-god-dont-use-npmignore-f93c08909d8d)
+learn more [here](./packages/eslint/README.md).
+
+## Prettier
+
+learn more [here](./packages/prettier/README.md).
+
+## Stylelint
+
+learn more [here](./packages/stylelint/README.md).
