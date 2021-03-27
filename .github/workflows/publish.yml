@@ -19,7 +19,7 @@ jobs:
          # pulls all commits (needed for lerna / semantic release to correctly version)
          fetch-depth: "0"
       # pulls all tags (needed for lerna / semantic release to correctly version)
-      - name: fetch updates
+      - name: Fetch Updates
         run: git fetch --prune --tags
       - name: Read node version
         run: echo ::set-output name=nodever::$(cat .node-version)
@@ -28,9 +28,10 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: '${{ steps.nvm.outputs.nodever }}'
-          registry-url: https://npm.pkg.github.com/
+          registry-url: https://registry.npmjs.org
       - name: Configure Git User
         run: |
           git config --global user.email "gitlab@roman-minchyn.de"
           git config --global user.name "Roman Minchyn (lerna-bot)"
-      - run: npx lerna publish --conventional-commits --yes --no-verify-access
+      - name: Publish with Lerna
+        run: npx lerna publish --conventional-commits --yes --no-verify-access
