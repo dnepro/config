@@ -1,0 +1,70 @@
+{
+  "name": "@dnepro/eslint-config-dnepro",
+  "version": "0.0.1",
+  "description": "My private Eslint Configuration",
+  "private": true,
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "base.js",
+    "jest.js",
+    "jsx.js",
+    "prettier.js",
+    "react.js",
+    "testing-library.js"
+  ],
+  "peerDependencies": {
+    "@babel/eslint-parser": "~7.13.10",
+    "@typescript-eslint/eslint-plugin": "~4.19.0",
+    "@typescript-eslint/parser": "~4.19.0",
+    "eslint": "~7.23.0",
+    "eslint-config-prettier": "~8.1.0",
+    "eslint-plugin-array-func": "~3.1.7",
+    "eslint-plugin-compat": "~3.9.0",
+    "eslint-plugin-cypress": "~2.11.2",
+    "eslint-plugin-import": "~2.22.1",
+    "eslint-plugin-jest": "~24.3.2",
+    "eslint-plugin-jsdoc": "~32.3.0",
+    "eslint-plugin-jsx-a11y": "~6.4.1",
+    "eslint-plugin-react": "~7.23.1",
+    "eslint-plugin-react-hooks": "~4.2.0",
+    "eslint-plugin-testing-library": "~3.10.2"
+  },
+  "peerDependenciesMeta": {
+    "eslint-config-prettier": {
+      "optional": true
+    },
+    "eslint-plugin-cypress": {
+      "optional": true
+    },
+    "eslint-plugin-jest": {
+      "optional": true
+    },
+    "eslint-plugin-jsx-a11y": {
+      "optional": true
+    },
+    "eslint-plugin-react": {
+      "optional": true
+    },
+    "eslint-plugin-react-hooks": {
+      "optional": true
+    },
+    "eslint-plugin-testing-library": {
+      "optional": true
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnepro/config.git"
+  },
+  "keywords": [
+    "config",
+    "eslint"
+  ],
+  "author": "Roman Minchyn <hello@roman-minchyn.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dnepro/config/issues"
+  },
+  "homepage": "https://github.com/dnepro/config#readme"
+}
