@@ -1,0 +1,23 @@
+{
+  "name": "@dnepro/prettier-config",
+  "version": "0.0.1",
+  "description": "My private Prettier Configuration",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnepro/config.git"
+  },
+  "keywords": [
+    "config",
+    "prettier"
+  ],
+  "author": "Roman Minchyn <hello@roman-minchyn.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dnepro/config/issues"
+  },
+  "homepage": "https://github.com/dnepro/config#readme"
+}
