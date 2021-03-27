@@ -1,4 +1,8 @@
-# eslint-config-dnepro
+# @dnepro/eslint-config-dnepro
+
+![NPM](https://img.shields.io/npm/l/@dnepro/eslint-config-dnepro)
+![npm (scoped)](https://img.shields.io/npm/v/@dnepro/eslint-config-dnepro)
+![npm peer dependency version (scoped)](https://img.shields.io/npm/dependency-version/@dnepro/eslint-config-dnepro/peer/eslint)
 
 This package includes the shareable ESLint configurations used by [@dnepro](https://github.com/dnepro).
 

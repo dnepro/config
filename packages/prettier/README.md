@@ -1,5 +1,8 @@
 # @dnepro/prettier-config
 
+![NPM](https://img.shields.io/npm/l/@dnepro/prettier-config)
+![npm (scoped)](https://img.shields.io/npm/v/@dnepro/prettier-config)
+
 This package includes the shareable [Prettier](https://prettier.io/) configuration used by [@dnepro](https://github.com/dnepro).
 
 ## Installation

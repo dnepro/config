@@ -1,5 +1,9 @@
 # @dnepro/stylelint-config
 
+![NPM](https://img.shields.io/npm/l/@dnepro/stylelint-config)
+![npm (scoped)](https://img.shields.io/npm/v/@dnepro/stylelint-config)
+![npm peer dependency version (scoped)](https://img.shields.io/npm/dependency-version/@dnepro/stylelint-config/peer/stylelint)
+
 This package includes the shareable [Stylelint](https://stylelint.io/) configuration used by [@dnepro](https://github.com/dnepro).
 
 ## Usage
