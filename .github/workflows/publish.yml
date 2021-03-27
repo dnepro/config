@@ -18,7 +18,7 @@ jobs:
          fetch-depth: "0"
       # pulls all tags (needed for lerna / semantic release to correctly version)
       - name: fetch updates
-        run: git fetch --prune --unshallow --tags
+        run: git fetch --prune --tags
       - name: Read node version
         run: echo ::set-output name=nodever::$(cat .node-version)
         id: nvm
