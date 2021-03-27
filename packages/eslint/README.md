@@ -54,7 +54,7 @@ You can include them like, to the "extends" array in your .eslintrc.* file. Make
 }
 ```
 
-> ⚠️ For the "react"-snippet, please consider adding the [jsx](#jsx)-snippet as well.
+> ⚠️ For the "react"-snippet, please consider adding the "jsx"-snippet as well.
 
 #### Snippet Overview
 
