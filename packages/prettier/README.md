@@ -4,8 +4,9 @@ This package includes the shareable [Prettier](https://prettier.io/) configurati
 
 ## Installation
 
-```console
+```bash
 npm i -D @dnepro/prettier-config
+# or respectively
 yarn add -D @dnepro/prettier-config
 ```
 

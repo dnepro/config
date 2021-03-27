@@ -36,7 +36,7 @@ Add this to your `.stylelintrc.json`:
 
 Install this configuration and it's peerDependencies:
 
-```console
+```bash
 npm i -D @dnepro/stylelint-config
 # or respectively
 yarn add -D @dnepro/stylelint-config
@@ -44,7 +44,7 @@ yarn add -D @dnepro/stylelint-config
 
 if necessary (this maybe already happens automatically), please also install the peerDependencies:
 
-```console
+```bash
 npm i -D stylelint@^13.2.0 stylelint-config-standard@^21.0.0 stylelint-config-prettier@^8.0.1
 # or respectively
 yarn add -D stylelint@^13.2.0 stylelint-config-standard@^21.0.0 stylelint-config-prettier@^8.0.1
